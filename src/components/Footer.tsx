@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  PhoneCall,
-  Mail,
-  MapPin,
-  Facebook,
-  Twitter,
-  Instagram,
-} from "lucide-react";
+import { PhoneCall, Mail, MapPin, Instagram } from "lucide-react";
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -23,19 +16,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
-                className="text-white hover:text-red-500 transition-colors"
-              >
-                <Facebook size={20} />
-              </a>
-              <a
-                href="#"
-                className="text-white hover:text-red-500 transition-colors"
-              >
-                <Twitter size={20} />
-              </a>
-              <a
-                href="#"
+                href="https://www.instagram.com/yolyardm__otokurtarma/"
                 className="text-white hover:text-red-500 transition-colors"
               >
                 <Instagram size={20} />
@@ -111,10 +92,10 @@ const Footer: React.FC = () => {
                 <Mail size={18} className="mr-3 mt-1 text-red-500" />
                 <span>
                   <a
-                    href="mailto:info@Yol Yardım Trabzon.com"
+                    href="mailto:ozturkkurtarma61@gmail.com"
                     className="text-slate-300 hover:text-white"
                   >
-                    info@Yol Yardım Trabzon.com
+                    ozturkkurtarma61@gmail.com
                   </a>
                 </span>
               </li>
