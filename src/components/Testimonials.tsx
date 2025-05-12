@@ -6,7 +6,7 @@ const testimonials = [
     id: 1,
     name: "Mehmet Yılmaz",
     location: "Trabzon, Türkiye",
-    text: "Gece geç saatte otoyolda lastiğim patladı ve yolda kaldım. TrabzonTow 20 dakika içinde geldi ve beni hızlıca yola devam ettirdi. Mükemmel hizmet!",
+    text: "Gece geç saatte otoyolda lastiğim patladı ve yolda kaldım. Yol Yardım Trabzon 20 dakika içinde geldi ve beni hızlıca yola devam ettirdi. Mükemmel hizmet!",
     rating: 5,
     image:
       "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -15,7 +15,7 @@ const testimonials = [
     id: 2,
     name: "Ayşe Kaya",
     location: "Ortahisar, Trabzon",
-    text: "Alışveriş yaparken arabamın aküsü bitti. TrabzonTow'u aradım ve hemen geldiler. Teknisyen çok profesyoneldi ve arabamı hemen çalıştırdı. Kesinlikle tavsiye ederim!",
+    text: "Alışveriş yaparken arabamın aküsü bitti. Yol Yardım Trabzon'u aradım ve hemen geldiler. Teknisyen çok profesyoneldi ve arabamı hemen çalıştırdı. Kesinlikle tavsiye ederim!",
     rating: 5,
     image:
       "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -24,7 +24,7 @@ const testimonials = [
     id: 3,
     name: "Ali Demir",
     location: "Akçaabat, Trabzon",
-    text: "Anahtarlarım arabada kaldı ve işe yetişmem gerekiyordu. TrabzonTow 15 dakika içinde imdadıma yetişti ve arabama hiçbir hasar vermeden içeri girmemi sağladı.",
+    text: "Anahtarlarım arabada kaldı ve işe yetişmem gerekiyordu. Yol Yardım Trabzon 15 dakika içinde imdadıma yetişti ve arabama hiçbir hasar vermeden içeri girmemi sağladı.",
     rating: 4,
     image:
       "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",

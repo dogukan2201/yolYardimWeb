@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">TrabzonTow</h3>
+            <h3 className="text-xl font-bold mb-4">Yol Yardım Trabzon</h3>
             <p className="text-slate-300 mb-4">
               Trabzon'da profesyonel yol yardımı ve çekici hizmetleri. Tüm acil
               ihtiyaçlarınız için 7/24 hizmetinizdeyiz.
@@ -111,10 +111,10 @@ const Footer: React.FC = () => {
                 <Mail size={18} className="mr-3 mt-1 text-red-500" />
                 <span>
                   <a
-                    href="mailto:info@trabzontow.com"
+                    href="mailto:info@Yol Yardım Trabzon.com"
                     className="text-slate-300 hover:text-white"
                   >
-                    info@trabzontow.com
+                    info@Yol Yardım Trabzon.com
                   </a>
                 </span>
               </li>
@@ -131,8 +131,8 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-slate-800 mt-12 pt-8 text-center">
           <p className="text-slate-400">
-            &copy; {currentYear} TrabzonTow - 7/24 Yol Yardımı. Tüm hakları
-            saklıdır.
+            &copy; {currentYear} Yol Yardım Trabzon - 7/24 Yol Yardımı. Tüm
+            hakları saklıdır.
           </p>
         </div>
       </div>

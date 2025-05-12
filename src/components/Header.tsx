@@ -27,7 +27,9 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-white">TrabzonTow</span>
+            <span className="text-2xl font-bold text-white">
+              Yol Yardım Trabzon
+            </span>
           </div>
 
           {/* Desktop Navigation */}

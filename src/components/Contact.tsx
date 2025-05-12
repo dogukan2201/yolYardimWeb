@@ -65,10 +65,10 @@ const Contact: React.FC = () => {
                     E-posta
                   </h4>
                   <a
-                    href="mailto:info@trabzontow.com"
+                    href="mailto:info@Yol Yardım Trabzon.com"
                     className="text-red-600 hover:text-red-700"
                   >
-                    info@trabzontow.com
+                    info@Yol Yardım Trabzon.com
                   </a>
                 </div>
               </div>
