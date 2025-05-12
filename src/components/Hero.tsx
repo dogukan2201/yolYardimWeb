@@ -31,14 +31,14 @@ const Hero: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+905551234567"
+              href="tel:+905051544831"
               className="flex items-center justify-center gap-2 bg-red-700 hover:bg-red-800 text-white py-3 px-8 rounded-lg transition-all duration-300 hover:scale-105 text-lg font-medium"
             >
               <Phone size={20} />
               <span>Hemen Ara</span>
             </a>
             <a
-              href="https://wa.me/905551234567"
+              href="https://wa.me/905051544831"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-700 text-white py-3 px-8 rounded-lg transition-all duration-300 hover:scale-105 text-lg font-medium"

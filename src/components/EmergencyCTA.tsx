@@ -25,7 +25,7 @@ const EmergencyCTA: React.FC = () => {
       {/* Mobile Fixed Bottom Button */}
       <div className="fixed bottom-6 left-0 right-0 z-50 md:hidden px-4">
         <a
-          href="tel:+905551234567"
+          href="tel:+905051544831"
           className="flex items-center justify-center gap-2 bg-red-600 text-white py-3 px-6 rounded-full shadow-lg w-full font-medium text-lg animate-pulse"
         >
           <Phone size={20} className="animate-bounce" />
@@ -51,7 +51,7 @@ const EmergencyCTA: React.FC = () => {
             <p className="font-semibold">Acil yardıma mı ihtiyacınız var?</p>
           </div>
           <a
-            href="tel:+905551234567"
+            href="tel:+905051544831"
             className="flex items-center justify-center gap-2 bg-white text-red-600 hover:bg-red-50 py-2 px-4 rounded-lg font-medium transition-colors"
           >
             <Phone size={18} />

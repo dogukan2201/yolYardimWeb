@@ -34,26 +34,17 @@ const Header: React.FC = () => {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
-            <a
-              href="#services"
-              className="text-white hover:text-yellow-400 transition-colors"
-            >
+            <a href="#services" className="text-white transition-colors">
               Hizmetler
             </a>
-            <a
-              href="#testimonials"
-              className="text-white hover:text-yellow-400 transition-colors"
-            >
+            <a href="#testimonials" className="text-white transition-colors">
               Referanslar
             </a>
-            <a
-              href="#contact"
-              className="text-white hover:text-yellow-400 transition-colors"
-            >
+            <a href="#contact" className="text-white transition-colors">
               İletişim
             </a>
             <a
-              href="tel:+905551234567"
+              href="tel:+905051544831"
               className="flex items-center gap-2 bg-red-700 hover:bg-red-800 text-white py-2 px-4 rounded-full transition-all hover:scale-105"
             >
               <Phone size={18} />
@@ -96,7 +87,7 @@ const Header: React.FC = () => {
                 İletişim
               </a>
               <a
-                href="tel:+905551234567"
+                href="tel:+905051544831"
                 className="flex items-center justify-center gap-2 bg-red-700 text-white py-3 px-4 rounded-md"
                 onClick={() => setIsMenuOpen(false)}
               >

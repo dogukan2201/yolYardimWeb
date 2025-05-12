@@ -100,10 +100,10 @@ const Footer: React.FC = () => {
                 <PhoneCall size={18} className="mr-3 mt-1 text-red-500" />
                 <span>
                   <a
-                    href="tel:+905551234567"
+                    href="tel:+905051544831"
                     className="text-slate-300 hover:text-white"
                   >
-                    +90 555 123 4567
+                    +90 505 154 4831
                   </a>
                 </span>
               </li>

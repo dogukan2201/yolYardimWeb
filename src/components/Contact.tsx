@@ -32,10 +32,10 @@ const Contact: React.FC = () => {
                   </h4>
                   <p className="text-slate-600">7/24 Acil Hat</p>
                   <a
-                    href="tel:+905551234567"
+                    href="tel:+905051544831"
                     className="text-red-600 hover:text-red-700 font-medium"
                   >
-                    +90 555 123 4567
+                    +90 505 154 4831
                   </a>
                 </div>
               </div>
