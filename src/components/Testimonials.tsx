@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight, Star } from "lucide-react";
 const testimonials = [
   {
     id: 1,
-    name: "Mehmet Yılmaz",
+    name: "Oğuzhan Özdemir",
     location: "Maçka,Trabzon",
     text: "Gece geç saatte otoyolda lastiğim patladı ve yolda kaldım. Yol Yardım Trabzon 20 dakika içinde geldi ve beni hızlıca yola devam ettirdi. Mükemmel hizmet!",
     rating: 5,

@@ -102,8 +102,8 @@ const Footer: React.FC = () => {
               <li className="flex items-start">
                 <MapPin size={18} className="mr-3 mt-1 text-red-500" />
                 <span className="text-slate-300">
-                  Trabzon Merkez, <br />
-                  Ortahisar, Trabzon 61000
+                  Değirmendere/Anadolu Bulvarı,Sanayi Mah. no:25 <br />
+                  Ortahisar, Trabzon
                 </span>
               </li>
             </ul>

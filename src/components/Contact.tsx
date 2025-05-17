@@ -49,8 +49,8 @@ const Contact: React.FC = () => {
                     Adres
                   </h4>
                   <p className="text-slate-600">
-                    Trabzon Merkez, <br />
-                    Ortahisar, Trabzon 61000 <br />
+                    Değirmendere/Anadolu Bulvarı,Sanayi Mah. no:25 <br />
+                    Ortahisar, Trabzon <br />
                     Türkiye
                   </p>
                 </div>
